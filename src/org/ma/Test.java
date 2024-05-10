@@ -5,7 +5,6 @@ public class Test {
 		
 		System.out.println("vicky");
 		System.out.println("name");
-		
 		int s =0;
 		System.out.println(s);
 	}
